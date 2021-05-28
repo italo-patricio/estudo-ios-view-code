@@ -11,6 +11,8 @@
 		8B73EF7F265FF7720047B5D0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B73EF7E265FF7720047B5D0 /* ViewController.swift */; };
 		8B73EF84265FF7730047B5D0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B73EF83265FF7730047B5D0 /* Assets.xcassets */; };
 		8B73EF87265FF7730047B5D0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8B73EF85265FF7730047B5D0 /* LaunchScreen.storyboard */; };
+		8B73EF9C2661165F0047B5D0 /* ViewControllerScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B73EF9B2661165F0047B5D0 /* ViewControllerScreen.swift */; };
+		8B73EF9F266124AE0047B5D0 /* CodeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B73EF9E266124AE0047B5D0 /* CodeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +22,8 @@
 		8B73EF83265FF7730047B5D0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8B73EF86265FF7730047B5D0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8B73EF88265FF7730047B5D0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8B73EF9B2661165F0047B5D0 /* ViewControllerScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerScreen.swift; sourceTree = "<group>"; };
+		8B73EF9E266124AE0047B5D0 /* CodeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +61,8 @@
 				8B73EF83265FF7730047B5D0 /* Assets.xcassets */,
 				8B73EF85265FF7730047B5D0 /* LaunchScreen.storyboard */,
 				8B73EF88265FF7730047B5D0 /* Info.plist */,
+				8B73EF9B2661165F0047B5D0 /* ViewControllerScreen.swift */,
+				8B73EF9E266124AE0047B5D0 /* CodeView.swift */,
 			);
 			path = EstudoViewCode;
 			sourceTree = "<group>";
@@ -131,7 +137,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				8B73EF7F265FF7720047B5D0 /* ViewController.swift in Sources */,
+				8B73EF9C2661165F0047B5D0 /* ViewControllerScreen.swift in Sources */,
 				8B73EF7B265FF7720047B5D0 /* AppDelegate.swift in Sources */,
+				8B73EF9F266124AE0047B5D0 /* CodeView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
